@@ -1,0 +1,98 @@
+[
+    {
+      "serviceName": "Yoga Classes",
+      "img": "https://www.realsimple.com/thmb/bvqTGU3QP27w6E9dj3L8ZH4VipQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/free-yoga-copy-2000-f599b19396fa4238813af36478c619b1.jpg",
+      "serviceProviderName": "Emily Smith",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBU6MQyxNIMN4KpLpng70nhjrSJ4CcyId4FWi52WSK5g&s",
+      "details": "Join our serene yoga classes to find inner peace, improve flexibility, and enhance overall well-being. Our experienced instructors will guide you through various yoga styles. Join us for a transformative journey.",
+      "price": "$20 per session"
+    },
+    {
+      "serviceName": "Personal Training",
+      "img": "https://athleticsweekly.com/wp-content/uploads/2020/11/PT-image-via-OriGym.jpg",
+      "serviceProviderName": "James Wilson",
+      "serviceProviderImg": "https://media.gettyimages.com/id/1040495528/photo/portrait-of-a-female-personal-trainer-in-the-gym.jpg?s=612x612&w=gi&k=20&c=bdZXXGix4TSIFKGr0zL6XWuyJq5BS5cS7RihHqvmDyw=",
+      "details": "Get personalized fitness training with one-on-one sessions. Achieve your fitness goals with a certified personal trainer's expertise and guidance. Let's work together to reach your full potential.",
+      "price": "$50 per session"
+    },
+    {
+      "serviceName": "Running Club",
+      "img": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/5/7/1367930926942/A-running-group-training--008.jpg?width=465&dpr=1&s=none",
+      "serviceProviderName": "Sarah Davis",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBU6MQyxNIMN4KpLpng70nhjrSJ4CcyId4FWi52WSK5g&s",
+      "details": "Join our running club and enjoy group runs, coaching, and social events. All levels of runners are welcome to improve their endurance and meet like-minded people. Lace up and let's run!",
+      "price": "$15 per week"
+    },
+    {
+      "serviceName": "Martial Arts Classes",
+      "img": "https://www.wellnessliving.com/blog/wp-content/uploads/2019/02/Teaching-Children-Martial-Arts.jpg",
+      "serviceProviderName": "Daniel Lee",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-U1AMYiv0KIggQDuI0rEWzC9KTgqfQFtxw0Y_Wci2w&s",
+      "details": "Learn self-defense, discipline, and physical fitness through martial arts training. Our experienced instructor will guide you through various martial arts styles. Train with us to be a martial artist.",
+      "price": "$25 per session"
+    },
+    {
+      "serviceName": "Swimming Lessons",
+      "img": "https://www.hamptonswimschool.com.au/wp-content/uploads/2020/11/Our-SwimSteps-lessons.png",
+      "serviceProviderName": "Olivia Johnson",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-U1AMYiv0KIggQDuI0rEWzC9KTgqfQFtxw0Y_Wci2w&s",
+      "details": "Learn to swim or improve your swimming skills with our certified instructor. We offer lessons for all ages and skill levels. Dive in and make a splash!",
+      "price": "$30 per session"
+    },
+    {
+      "serviceName": "Basketball Coaching",
+      "img": "https://inspirationalbasketball.com/wp-content/uploads/2014/04/coachingphilosophies.jpg",
+      "serviceProviderName": "Michael Turner",
+      "serviceProviderImg": "https://media.gettyimages.com/id/1040495528/photo/portrait-of-a-female-personal-trainer-in-the-gym.jpg?s=612x612&w=gi&k=20&c=bdZXXGix4TSIFKGr0zL6XWuyJq5BS5cS7RihHqvmDyw=",
+      "details": "Enhance your basketball skills with personalized coaching. Our experienced coach will help you improve your shooting, dribbling, and overall game. Let's hit the court!",
+      "price": "$40 per session"
+    },
+    {
+      "serviceName": "Cycling Tours",
+      "img": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/a1/eb/c9.jpg",
+      "serviceProviderName": "Emma Roberts",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-U1AMYiv0KIggQDuI0rEWzC9KTgqfQFtxw0Y_Wci2w&s",
+      "details": "Explore scenic routes and enjoy guided cycling tours. Whether you're a beginner or an experienced rider, we have a tour for you. Ride with us and discover new horizons!",
+      "price": "$35 per tour"
+    },
+    {
+      "serviceName": "Pilates Classes",
+      "img": "https://alteaactive.com/winnipeg/wp-content/uploads/sites/37/2023/04/Pilates_Build-Your-Foundation.jpg",
+      "serviceProviderName": "William Foster",
+      "serviceProviderImg": "https://media.gettyimages.com/id/1040495528/photo/portrait-of-a-female-personal-trainer-in-the-gym.jpg?s=612x612&w=gi&k=20&c=bdZXXGix4TSIFKGr0zL6XWuyJq5BS5cS7RihHqvmDyw=",
+      "details": "Strengthen your core and improve flexibility with our Pilates classes. Certified instructor will help you achieve better posture and balance. Let's stretch and strengthen together!",
+      "price": "$20 per session"
+    },
+    {
+      "serviceName": "Tennis Coaching",
+      "img": "https://rosieclarktenniscoaching.co.uk/wp-content/uploads/2017/05/rosie-clark-tennis-coaching-term-time-coaching.jpg",
+      "serviceProviderName": "Sophia Clark",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-U1AMYiv0KIggQDuI0rEWzC9KTgqfQFtxw0Y_Wci2w&s",
+      "details": "Improve your tennis skills with professional coaching. Learn proper techniques, strategy, and enjoy friendly matches. Serve, volley, and play your best with us!",
+      "price": "$30 per session"
+    },
+    {
+      "serviceName": "Golf Lessons",
+      "img": "https://cdn.bobbywaliagolf.com/wp-content/uploads/2020/05/private-lessons-1.jpg",
+      "serviceProviderName": "Benjamin Taylor",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBU6MQyxNIMN4KpLpng70nhjrSJ4CcyId4FWi52WSK5g&s",
+      "details": "Learn the art of golf with our experienced instructor. Whether you're a beginner or an intermediate player, we'll help you improve your game. Tee off and swing to success!",
+      "price": "$40 per session"
+    },
+    {
+      "serviceName": "Dance Classes",
+      "img": "https://www.godanceobsession.com/wp-content/uploads/bb-plugin/cache/blog-Summer-Dance-Classes-panorama.jpg",
+      "serviceProviderName": "Ava Anderson",
+      "serviceProviderImg": "https://media.gettyimages.com/id/1040495528/photo/portrait-of-a-female-personal-trainer-in-the-gym.jpg?s=612x612&w=gi&k=20&c=bdZXXGix4TSIFKGr0zL6XWuyJq5BS5cS7RihHqvmDyw=",
+      "details": "Express yourself through dance! Join our classes to learn various dance styles and enjoy the rhythm of movement. Let's dance to the beat!",
+      "price": "$15 per session"
+    },
+    {
+      "serviceName": "Outdoor Boot Camp",
+      "img": "https://img.livestrong.com/640/clsd/getty/ce9e8761dc7e4d10962e7ea36f44375f",
+      "serviceProviderName": "Liam Johnson",
+      "serviceProviderImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBU6MQyxNIMN4KpLpng70nhjrSJ4CcyId4FWi52WSK5g&s",
+      "details": "Challenge yourself with outdoor boot camp sessions. Get fit, build endurance, and enjoy the great outdoors with our professional trainer. Let's conquer the wilderness!",
+      "price": "$25 per session"
+    }
+  ]
